@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Assignment2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc5e5688-8cfc-4489-affc-98e2e18cc33f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/World.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RnzuH1B8IcbvtIRxt78m2DumJk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GameOfLife" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc5e5688-8cfc-4489-affc-98e2e18cc33f" name="Default Changelist" comment="" />
+      <created>1570317868020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570317868020</updated>
+      <workItem from="1570317869306" duration="36000" />
+      <workItem from="1570317916900" duration="7974000" />
+      <workItem from="1570402545194" duration="6261000" />
+      <workItem from="1570561602274" duration="2847000" />
+      <workItem from="1570576533687" duration="6683000" />
+      <workItem from="1570721129654" duration="15000" />
+      <workItem from="1570721155858" duration="232000" />
+      <workItem from="1570743510522" duration="7474000" />
+      <workItem from="1570815391298" duration="5592000" />
+      <workItem from="1571069506649" duration="21000" />
+      <workItem from="1571167690994" duration="326000" />
+      <workItem from="1571173942034" duration="53000" />
+      <workItem from="1572207781898" duration="524000" />
+      <workItem from="1572208796401" duration="6491000" />
+      <workItem from="1572217678432" duration="475000" />
+      <workItem from="1572219267568" duration="3000" />
+      <workItem from="1572632031502" duration="1916000" />
+      <workItem from="1572672158001" duration="3853000" />
+      <workItem from="1572763872154" duration="1000" />
+      <workItem from="1573023378092" duration="912000" />
+      <workItem from="1573196077793" duration="3323000" />
+      <workItem from="1573280095821" duration="123000" />
+      <workItem from="1573372714183" duration="22292000" />
+      <workItem from="1573706531239" duration="1000" />
+      <workItem from="1573754764935" duration="143000" />
+      <workItem from="1573844068017" duration="780000" />
+      <workItem from="1573946758428" duration="444000" />
+      <workItem from="1574051603247" duration="6000" />
+      <workItem from="1574127089917" duration="1664000" />
+      <workItem from="1574128879151" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
